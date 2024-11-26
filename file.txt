@@ -1,0 +1,2 @@
+Welcome to the Git Conflict Demo
+This file is used to simulate conflicts.
