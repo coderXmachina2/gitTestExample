@@ -1,3 +1,4 @@
 Welcome to the Git Conflict Demo
 This file is used to simulate conflicts.
 This is feature1s contribution
+This is feature2s contrib
